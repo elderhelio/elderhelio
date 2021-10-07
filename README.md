@@ -1,8 +1,8 @@
 ## Olá! eu sou o Hélio Santos
 
-- 🔭 Eu trabalho atualizamente com Banco de dados ORacle, SqlServer, Postgresql e Mysql.
-- 🌱 Estou atulamente apredendo administração em nuvem Oracle, Azure e AWS.
--- 📫 Contate-me no linkedin: 
+- 🔭 Eu trabalho com Banco de dados Oracle, SqlServer, Postgresql e Mysql.
+- 🌱 Estou atulamente apredendo a administrar serviços em nuvem Oracle, Azure e AWS.
+- 📫 Contate-me no linkedin: https://www.linkedin.com/in/hélio-santos-7688b157/
 - 😄 Pronouns: Ele/Dele
 
 <div align="center">
