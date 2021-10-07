@@ -17,6 +17,8 @@
   <img align="center" alt="Helio-Oracle" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Helio-Oracle" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="center" alt="Helio-Oracle" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg">
+    <img align="right" alt="Helio-pic" height="150" style="border-radius:50px;" src="https://scontent.ffor29-1.fna.fbcdn.net/v/t39.30808-6/244680478_4076985942405788_5322895388446333822_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=730e14&_nc_ohc=BhXifsHp-rgAX-yHWnO&_nc_ht=scontent.ffor29-1.fna&oh=ba6bcfd43425e3ab2a7e5b4210d0a183&oe=6165365C">
+
 </div>
 
 
