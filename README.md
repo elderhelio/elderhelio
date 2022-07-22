@@ -14,7 +14,6 @@
 ### Bnco de Dados que utilizo:
 [![Blog](https://img.shields.io/badge/postgresql-0636aa?style=for-the-badge&logo=postgresql&logoColor=Red)](https://www.postgresql.org)
 [![Blog](https://img.shields.io/badge/sqlserver-cccdd0?style=for-the-badge&logo=sqlserver&logoColor=Grey)](https://www.microsoft.com/pt-br/sql-server/)
-[![Blog](https://img.shields.io/badge/Mysql-102d74?style=for-the-badge&logo=Mysql&logoColor=blue)](https://www.mysql.com)
 [![Blog](https://img.shields.io/badge/Oracle-FF5722?style=for-the-badge&logo=Oracle&logoColor=Red)](https://www.oracle.com/index.html)
 
 ### Sistemas que utilizo:
